@@ -17,6 +17,9 @@ IFTTTのwebHook APIをコールするリポジトリ
 
 1. conf.jsonのwebhookApiKeyにコピーしたAPIキーを入力する
 1. conf.jsonのexecuteEventNameに1で作成したときに入力したイベント名を入力する
+
+### 実行(このリポジトリのディレクトリ上で行う)
+
 1. コマンドラインで以下を入力する
   ```
   npm run start
