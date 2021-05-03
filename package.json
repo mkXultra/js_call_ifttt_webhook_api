@@ -1,0 +1,22 @@
+{
+  "name": "js_call_ifttt_webhook_api",
+  "version": "1.0.0",
+  "description": "IFTTTのウェブフックAPIをコールするリポジトリ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main",
+    "start:dev": "node main --dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkXultra/js_call_ifttt_webhook_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkXultra/js_call_ifttt_webhook_api/issues"
+  },
+  "homepage": "https://github.com/mkXultra/js_call_ifttt_webhook_api#readme"
+}
